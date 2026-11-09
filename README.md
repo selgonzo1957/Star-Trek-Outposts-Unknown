@@ -185,3 +185,6 @@ This repository serves as the official landing page for Star Trek: Outposts Unkn
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Star Trek: Outposts Unknown today!**
+
+---
+**Last updated:** 2026-11-09 10:29:34 UTC
