@@ -187,4 +187,4 @@ This repository serves as the official landing page for Star Trek: Outposts Unkn
 **Get the most recent version of Star Trek: Outposts Unknown today!**
 
 ---
-**Last updated:** 2026-11-13 18:51:06 UTC
+**Last updated:** 2026-11-13 23:58:35 UTC
